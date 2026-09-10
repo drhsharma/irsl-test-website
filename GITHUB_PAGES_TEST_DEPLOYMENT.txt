@@ -1,0 +1,22 @@
+IRSL GitHub Pages Test Deployment
+
+Repository:
+drhsharma/irsl-test-website
+
+Purpose:
+This private repository is currently being used to test whether ChatGPT can update the IRSL lab website files through GitHub.
+
+For GitHub Pages:
+1. Repository Settings
+2. Pages
+3. Build and deployment
+4. Source: Deploy from a branch
+5. Branch: main
+6. Folder: /root
+7. Save
+
+Expected URL if Pages is enabled:
+https://drhsharma.github.io/irsl-test-website/
+
+Note:
+If the repository remains private, GitHub Pages availability may depend on the account plan/settings. For a completely free public lab website, make the repository public before enabling Pages.
